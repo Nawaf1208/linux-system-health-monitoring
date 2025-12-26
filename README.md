@@ -5,6 +5,8 @@
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
+![](SystemHealthMonitoring.png)
+
 A lightweight Python-based monitoring tool that tracks system resource usage and sends automated alerts via Webhooks when thresholds are exceeded.
 
 ## Features
